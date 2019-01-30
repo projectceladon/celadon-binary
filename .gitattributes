@@ -2,3 +2,4 @@ ww201840 filter=lfs diff=lfs merge=lfs -text
 ww201851 filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 ww201852/ filter=lfs diff=lfs merge=lfs -text
+ww201904/ filter=lfs diff=lfs merge=lfs -text
