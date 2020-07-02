@@ -2,3 +2,4 @@
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 .gz filter=lfs diff=lfs merge=lfs -text
 .img.gz filter=lfs diff=lfs merge=lfs -text
+CIC_00.20.02.24_A09/ filter=lfs diff=lfs merge=lfs -text
